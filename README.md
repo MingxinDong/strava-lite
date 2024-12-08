@@ -1,4 +1,4 @@
-# strava-lite
+# Strava Lite
 
 ## Project Information
 - **Name**: Mingxin Dong
