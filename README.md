@@ -3,7 +3,7 @@
 ## Project Information
 - **Name**: Mingxin Dong
 - **Stevens Email**: mdong5@stevens.edu
-- **GitHub Repository**: []
+- **GitHub Repository**: [https://github.com/MingxinDong/strava-lite]
 
 ## Project Description
 Strava Lite is a simplified version of the popular fitness tracking application Strava. It provides basic functionality for users to track their workouts and connect with other users.
